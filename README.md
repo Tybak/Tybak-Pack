@@ -5,7 +5,7 @@ This is the official repository for the Tybak Pack. Feel free to leave suggestio
 
 
 **Tybak Pack** - 
-Public 1.7.10 Mod Pack on AT Launcher
+Public 1.7.10 Mod Pack on FTB Launcher
 
 Bevo's Youtube Page: https://www.youtube.com/user/BevoLJ
 
