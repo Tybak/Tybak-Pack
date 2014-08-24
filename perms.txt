@@ -6,7 +6,7 @@ None!  We are good to go on all current mods!
 Have Perms:
 Aroma1997Core - http://puu.sh/aa7dD/422c84bd94.png
 AromaBackup - http://puu.sh/aa7dD/422c84bd94.png
-Automagy - 
+Automagy - http://puu.sh/b58w8/f6b0520e87.png
 BetterStorage - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442380-betterstorage-0-9-4-111-wip
 backpack - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124-1-6-x-1-7-x-backpacks-v-2-0-0
 Baubles-princess - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2132152-baubles-princess-edition-1-0-0-18p-last-updated-7
@@ -39,7 +39,7 @@ LycanitesMobs - http://www.minecraftforum.net/forums/mapping-and-modding/minecra
 MineMenu - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2141720-minemenu-v1-1-7-radial-menu-nuff-said
 MineTweaker3 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your
 ModTweaker - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-5d-minetweaker-addon
-Morpheus - http://puu.sh/aaal6/5e8f1ebe1f.png
+Morpheus - http://puu.sh/b5hKP/3babdbe9f9.png
 NotEnoughItems - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
 NEIPlugins - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294687-toniuss-mods-simply-jetpacks-nei-plugins
 OpenEye - http://openeye.openmods.info/download
