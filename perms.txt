@@ -1,7 +1,6 @@
-We currently have permissions for all mods. 
-
 Perms Needed:
-None!  We are good to go on all current mods!
+Growthcraft, HEE, Thaumcraft, Witchery
+(voxel is fine as it, just need to find the perms again)
 
 Have Perms:
 Aroma1997Core - http://puu.sh/aa7dD/422c84bd94.png
@@ -20,8 +19,7 @@ Carpenters Blocks - http://mineshopper.github.io/carpentersblocks/
 Chisel - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288400-1-6-4-smp-forge-chisel
 CodeChickenCore - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
 CraftHeraldry - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2165317-craftheraldry-coats-of-arms-in-minecraft-over-1200
-craftingpillars - 
-growthcraft - 
+craftingpillars - http://puu.sh/b5YSs/ae80eb92bb.png
 EnderStorage - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods 
 Ganys End - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291092-ganys-end-miscellaneous-ender-themed-additions
 Ganys Nether - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291095-ganys-nether-miscellaneous-nether-themed-additions
@@ -31,7 +29,7 @@ harvestcraft - http://www.minecraftforum.net/forums/mapping-and-modding/minecraf
 HEE - 
 HQM - http://hqm.wikispaces.com/Permissions
 immibis - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
-InfernalMobs - 
+InfernalMobs - http://puu.sh/b5YUn/958c086d95.png
 InventoryTweaks - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-57-march-14#Sup
 JABBA - http://minecraft.curseforge.com/mc-mods/73510-jabba
 LaunchGUI - custom mod made for my pack. will ask him to post something
