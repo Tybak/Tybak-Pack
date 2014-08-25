@@ -32,7 +32,7 @@ immibis - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mod
 InfernalMobs - http://puu.sh/b5YUn/958c086d95.png
 InventoryTweaks - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-57-march-14#Sup
 JABBA - http://minecraft.curseforge.com/mc-mods/73510-jabba
-LaunchGUI - custom mod made for my pack. will ask him to post something
+LaunchGUI - https://github.com/TehNut/LaunchGui
 LycanitesMobs - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291613-lycanites-mobs-environmental-mobs-aggressive
 MineMenu - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2141720-minemenu-v1-1-7-radial-menu-nuff-said
 MineTweaker3 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your

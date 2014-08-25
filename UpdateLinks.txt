@@ -1,0 +1,39 @@
+AromaBackup & Core http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod
+Automagy http://minecraft.curseforge.com/mc-mods/222153-automagy
+BetterStorage http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442380-betterstorage-0-9-4-111-wip
+BiblioCraft http://www.bibliocraftmod.com/?page_id=48
+Blood Magic http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-1-0-updated-jul-13
+Botania http://vazkii.us/mod/Botania/downloads.php
+Carpenters Blocks http://www.carpentersblocks.com/downloads.html
+ChickenBones Mods: http://chickenbones.net/Pages/links.html
+Chisel http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-chisel
+CraftHeraldry http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2165317-craftheraldry-coats-of-arms-in-minecraft-over-1200
+craftingpillars http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292336-crafting-pillars-mod-the-fancy-way-of-crafting-and
+Ganys End http://minecraft.curseforge.com/mc-mods/222084-ganys-end/files
+Ganys Nether http://minecraft.curseforge.com/mc-mods/222302-ganys-nether/files
+Ganys Surface http://minecraft.curseforge.com/mc-mods/222303-ganys-surface/files
+growthcraft http://minecraft.curseforge.com/mc-mods/60941-growthcraft/files
+HardcoreEnderExpansion http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-2-110-000-dls#Download
+HQM http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode/files
+InfernalMobs http://atomicstryker.net/infernalmobs.php
+InventoryTweaks http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/files
+Jabba http://minecraft.curseforge.com/mc-mods/73510-jabba/files
+launchgui https://github.com/TehNut/LaunchGui
+LycanitesMobsComplete http://lycanitesmobs.nephrite.uk/download
+MineMenu http://minecraft.curseforge.com/mc-mods/222378-minemenu
+MobiusCore: http://minecraft.curseforge.com/mc-mods/76734-mobiuscore/files
+Morpheus http://minecraft.curseforge.com/mc-mods/69118-morpheus/files
+NEIPlugins http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294687-toniuss-mods-simply-jetpacks-nei-plugins
+Opis: http://minecraft.curseforge.com/mc-mods/73832-opis/files
+Pams HarvestCraft http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-july-16th-all-mods-updated-to-1-7-10#entry29809669
+roguelike http://minecraft.curseforge.com/mc-mods/221585-roguelike-dungeons/files
+Ruins http://atomicstryker.net/ruins.php
+SpiceOfLife http://minecraft.curseforge.com/mc-mods/220811-the-spice-of-life/files
+Thaumcraft http://minecraft.curseforge.com/mc-mods/223628-thaumcraft/files
+ThaumicTinkerer http://minecraft.curseforge.com/mc-mods/222948-thermal-tinkerer/files
+twilightforest http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-2-3-domain-of-the-alpha  
+Waila http://minecraft.curseforge.com/mc-mods/73488-waila/files
+WailaHarvestability http://minecraft.curseforge.com/mc-mods/79287-waila-harvestability/files
+warpbook http://minecraft.curseforge.com/mc-mods/71869-warp-book/files
+whatsthispack http://minecraft.curseforge.com/mc-mods/221658-wtp-whats-this-pack/files
+witchery http://minecraft.curseforge.com/mc-mods/69673-witchery/files
