@@ -1,6 +1,4 @@
-Perms Needed:
-Growthcraft, HEE, Thaumcraft, Witchery
-(voxel is fine as it, just need to find the perms again)
+Perms Needed: None, we have full permissions
 
 Have Perms:
 Aroma1997Core - http://puu.sh/aa7dD/422c84bd94.png
@@ -24,9 +22,8 @@ EnderStorage - http://www.minecraftforum.net/forums/mapping-and-modding/minecraf
 Ganys End - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291092-ganys-end-miscellaneous-ender-themed-additions
 Ganys Nether - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291095-ganys-nether-miscellaneous-nether-themed-additions
 Ganys Surface - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291094-ganys-surface-miscellaneous-overworld-themed
-growthcraft - 
 harvestcraft - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274678-1-6-x-1-5-2-others-pams-mods-feb-9th-im-back
-HEE - 
+HEE - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-2-110-000-dls
 HQM - http://hqm.wikispaces.com/Permissions
 immibis - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
 InfernalMobs - http://puu.sh/b5YUn/958c086d95.png
@@ -46,11 +43,10 @@ roguelike - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-m
 Ruins - http://puu.sh/aa7aB/0bd256aa9a.png
 SpiceOfLife - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety
 statues - http://mc.shinonome.ch/doku.php
-Thaumcraft - 
+Thaumcraft - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-0-1-updated-27-8-2014
 twilightforest - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-2-1-domain-of-the-alpha
-VoxelMap - 
 Waila - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-2
 WailaHarvestability - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im
 Warp Book - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293310-teleportation-warp-book
 whatsthispack - http://www.curse.com/mc-mods/minecraft/221658-wtp-whats-this-pack
-witchery - 
+witchery - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248-witchery-0-20-5

@@ -19,13 +19,6 @@ EnderStorage-1.7.10-1.4.5.20-universal.jar
 Ganys End-1.8.0.jar
 Ganys Nether-1.7.4.jar
 Ganys Surface-1.9.0.jar
-growthcraft-apples-1.7.10-2.1.0.jar
-growthcraft-bamboo-1.7.10-2.1.0.jar
-growthcraft-cellar-1.7.10-2.1.0a.jar
-growthcraft-core-1.7.10-2.1.0a.jar
-growthcraft-grapes-1.7.10-2.1.0.jar
-growthcraft-hops-1.7.10-2.1.0.jar
-growthcraft-rice-1.7.10-2.1.0a.jar
 HardcoreEnderExpansion  MC-1.7.10  v1.6.2.jar
 HQM-The Journey (4.1.0).jar
 InfernalMobs-1.7.10.jar

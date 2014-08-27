@@ -12,7 +12,6 @@ craftingpillars http://www.minecraftforum.net/forums/mapping-and-modding/minecra
 Ganys End http://minecraft.curseforge.com/mc-mods/222084-ganys-end/files
 Ganys Nether http://minecraft.curseforge.com/mc-mods/222302-ganys-nether/files
 Ganys Surface http://minecraft.curseforge.com/mc-mods/222303-ganys-surface/files
-growthcraft http://minecraft.curseforge.com/mc-mods/60941-growthcraft/files
 HardcoreEnderExpansion http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-2-110-000-dls#Download
 HQM http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode/files
 InfernalMobs http://atomicstryker.net/infernalmobs.php
@@ -20,12 +19,12 @@ InventoryTweaks http://minecraft.curseforge.com/mc-mods/223094-inventory-tweaks/
 Jabba http://minecraft.curseforge.com/mc-mods/73510-jabba/files
 launchgui https://github.com/TehNut/LaunchGui
 LycanitesMobsComplete http://lycanitesmobs.nephrite.uk/download
-MineMenu http://minecraft.curseforge.com/mc-mods/222378-minemenu
+MineMenu http://minecraft.curseforge.com/mc-mods/222378-minemenu/files
 MobiusCore: http://minecraft.curseforge.com/mc-mods/76734-mobiuscore/files
 Morpheus http://minecraft.curseforge.com/mc-mods/69118-morpheus/files
 NEIPlugins http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294687-toniuss-mods-simply-jetpacks-nei-plugins
 Opis: http://minecraft.curseforge.com/mc-mods/73832-opis/files
-Pams HarvestCraft http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-july-16th-all-mods-updated-to-1-7-10#entry29809669
+Pams HarvestCraft http://minecraft.curseforge.com/mc-mods/221857-pams-harvestcraft/files
 roguelike http://minecraft.curseforge.com/mc-mods/221585-roguelike-dungeons/files
 Ruins http://atomicstryker.net/ruins.php
 SpiceOfLife http://minecraft.curseforge.com/mc-mods/220811-the-spice-of-life/files
